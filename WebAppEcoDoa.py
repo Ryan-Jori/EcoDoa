@@ -18,10 +18,10 @@ with st.sidebar:
 
     with colc:
         st.write("")
-        
-st.write("Entre em contato conosco:")
-st.write("_Email - exemplo@email.com_")
-st.write("_Telefone - (xx) x xxxx-xxxx_")
+    st.write("Entre em contato conosco:")
+    st.write("_Email - exemplo@email.com_")
+    st.write("_Telefone - (xx) x xxxx-xxxx_")    
+
 #------------------------------------------------------------------------ Primeira Aba
 with tab1:
     cola, colb = st.columns([6,3])
