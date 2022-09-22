@@ -19,7 +19,7 @@ with st.sidebar:
     with colc:
         st.write("")
     st.write("Entre em contato conosco:")
-    st.write("_Email - exemplo@email.com_")
+    st.write("_Email - exemplo@email,com_")
     st.write("_Telefone - (xx) x xxxx-xxxx_")    
 
 #------------------------------------------------------------------------ Primeira Aba
