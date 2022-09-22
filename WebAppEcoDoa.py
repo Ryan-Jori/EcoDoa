@@ -19,11 +19,9 @@ with st.sidebar:
     with colc:
         st.write("")
         
-add_selectbox = st.sidebar.selectbox(
-    "Contate-nos via:",
-    ("Email", "Telefone")
-)
-
+st.write("Entre em contato conosco:")
+st.write("_Email - exemplo@email.com_")
+st.write("_Telefone - (xx) x xxxx-xxxx_")
 #------------------------------------------------------------------------ Primeira Aba
 with tab1:
     cola, colb = st.columns([6,3])
