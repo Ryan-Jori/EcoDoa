@@ -1,5 +1,4 @@
-# EcoDoa
-WebApp hackathon Mackenzie 2022
+# EcoDoa - WebApp hackathon Mackenzie 2022
 
 Asafe Samuel Nunes de Oliveira 
 
